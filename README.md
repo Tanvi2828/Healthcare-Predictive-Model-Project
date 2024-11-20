@@ -62,8 +62,7 @@ The dataset used is the **Pima Indians Diabetes Dataset**, publicly available on
   - Age
 
 ### **Confusion Matrix**
-Visualized the confusion matrix to understand the classification results:
-![Confusion Matrix](link_to_image_placeholder)
+Visualized the confusion matrix to understand the classification results.
 
 ### **Feature Importance**
 The top features influencing diabetes prediction:
